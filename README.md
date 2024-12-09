@@ -157,6 +157,12 @@ v = str2enum( 'uint8' );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/strided-base/dtype-enum2str`][@stdlib/strided/base/dtype-enum2str]</span><span class="delimiter">: </span><span class="description">return the data type string associated with a strided array data type enumeration constant.</span>
+
 </section>
 
 <!-- /.related -->
@@ -232,6 +238,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/strided-base-dtype-str2enum/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/strided-base-dtype-str2enum/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/strided/base/dtype-enum2str]: https://github.com/stdlib-js/strided-base-dtype-enum2str
+
+<!-- </related-links> -->
 
 </section>
 
